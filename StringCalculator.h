@@ -50,7 +50,6 @@ int isEmptyString(const char* input)
   }
   return 0;
 }
-}
 
 int add (const char* str)
 {
